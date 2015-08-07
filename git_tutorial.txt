@@ -16,3 +16,19 @@ git add .
 
 to add it to local repository
 git commit -m "your comments here"
+
+If modified any files localy then it needs to be reflected to the index cache and then commited to local repository...
+so
+git add .
+git commit -m "more things added"
+
+the shortcut to this is 
+
+git commit -a -m "further added"
+
+
+more shortcut 
+below will give brief summary
+git log --oneline.
+
+
