@@ -1,0 +1,18 @@
+Git in a nut sheel
+
+Remote Repository
+
+Local Repositpry -> Fetch will get the files from remote repository; push will put files in remote repositoty.
+
+Index cache -> add from working direcoty will create a snapshot; commit will put this to local repository
+
+Working Directory -> Pull will get the files from remote repository; Checkout head -> Get file from Local Repository
+
+to create a local git repository: 
+git init <directory>
+
+to add files to Index cache: 
+git add .
+
+to add it to local repository
+git commit -m "your comments here"
