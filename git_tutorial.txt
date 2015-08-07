@@ -31,4 +31,8 @@ more shortcut
 below will give brief summary
 git log --oneline.
 
+One more 
+below will give the status in a shortcut.
+git status -s 
+
 
