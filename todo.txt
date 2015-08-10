@@ -1,4 +1,7 @@
 1.
 The RSA key is generated under home/.ssh. Add the public key to your github acccounts settings.
 
+2.
+Add gittest to remote server. Read the tutorial and try to do yourself.
+
 
