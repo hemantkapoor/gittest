@@ -1,0 +1,4 @@
+1.
+The RSA key is generated under home/.ssh. Add the public key to your github acccounts settings.
+
+
