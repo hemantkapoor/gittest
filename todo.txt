@@ -4,4 +4,7 @@ The RSA key is generated under home/.ssh. Add the public key to your github accc
 2.
 Add gittest to remote server. Read the tutorial and try to do yourself.
 
+3.
+Check if git-scm exists for ubuntu.
+
 
