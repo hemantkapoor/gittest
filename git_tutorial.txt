@@ -37,3 +37,12 @@ below will give the status in a shortcut.
 git status -s 
 
 
+Putting the repository online.
+
+We need to register/login to git hub.
+In the settings we have got a tab for ssh keys - This is used to trust your pc
+
+Important point to remember for repository
+There are admin settings which are individual for each repository. In there you have deploy keys is an ssh key which can be stored in the server and grants access to single repo on Github. This key attach directly to the repo rather than the account settings.
+
+
