@@ -5,6 +5,7 @@ Remote Repository
 Local Repositpry -> Fetch will get the files from remote repository; push will put files in remote repositoty.
 
 Index cache -> add from working direcoty will create a snapshot; commit will put this to local repository
+Index cache is also known as staging area....
 
 Working Directory -> Pull will get the files from remote repository; Checkout head -> Get file from Local Repository
 
